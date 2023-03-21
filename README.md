@@ -1,4 +1,4 @@
-# Thermo-kinematic modelling subduction
+# Thermo-kinematic modelling of subduction
 
 These are some initial results from ongoing work modelling the effect of subduction rate on p- and s-wave velocities.
 The code and further results will be shared here at a later date (in preparation for publication).
