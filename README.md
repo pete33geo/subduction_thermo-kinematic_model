@@ -1,6 +1,6 @@
 # Thermo-kinematic modelling subduction
 
-These are some initial results from ongoing work modelling the effect of subduction rate on p- and s-wave velocities, applied to the Alps.
+These are some initial results from ongoing work modelling the effect of subduction rate on p- and s-wave velocities.
 The code and further results will be shared here at a later date.
 
 
